@@ -1,3 +1,7 @@
+# Code by Sophie Tyrrell, Alastair Dobie, and Grace D'Abdank Kunicki
+# Developed at HackSheffield 8 on november 11-12  2023
+# Emails: jtyrrell1@sheffield.ac.uk, alastairdobie@gmail.com, gkunicki1@sheffield.ac.uk
+
 import scipy
 from scipy.optimize import linprog
 import csv
